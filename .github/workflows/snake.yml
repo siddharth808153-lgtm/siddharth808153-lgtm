@@ -23,6 +23,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
