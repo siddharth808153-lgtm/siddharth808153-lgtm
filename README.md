@@ -72,9 +72,9 @@
 <div width="100%" align="center">
   <a href="https://github.com/siddharth808153-lgtm">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=siddharth808153-lgtm&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
-      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=siddharth808153-lgtm&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=siddharth808153-lgtm&theme=radical&hide_border=true&card_width=495&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=siddharth808153-lgtm&card_width=495&show_icons=true" />
+      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=siddharth808153-lgtm&theme=radical&hide_border=true&card_width=495&show_icons=true" alt="GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/siddharth808153-lgtm">
