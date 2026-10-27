@@ -13,9 +13,11 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
-<a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.linkedin.com/in/siddharth-vishwakarma-886420396" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://instagram.com/siddharth.0205" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp;
+<a href="https://www.snapchat.com/add/siddharth.0502" target="_blank"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=000000" alt="Snapchat"></a>&nbsp;
+<a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-siddharth.0502-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
+<a href="mailto:siddharth808153@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br clear="both">
 
