@@ -1,6 +1,6 @@
 # Hi 👋, I'm Siddharth
 
-<img align="right" width="28%" src="https://raw.githubusercontent.com/sahilashraff/sahilashraff/main/Assets/Programming.gif">
+<img align="right" width="32%" src="https://raw.githubusercontent.com/siddharth808153-lgtm/siddharth808153-lgtm/main/assets/goku-ssj.gif" alt="Goku Super Saiyan">
 
 <a href="https://github.com/siddharth808153-lgtm"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=2196F3&center=false&vCenter=true&width=520&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" /></a>
 
