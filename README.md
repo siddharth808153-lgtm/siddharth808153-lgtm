@@ -72,9 +72,9 @@
 <div width="100%" align="center">
   <a href="https://github.com/siddharth808153-lgtm">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=siddharth808153-lgtm&theme=radical&hide_border=true&card_width=495&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=siddharth808153-lgtm&card_width=495&show_icons=true" />
-      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=siddharth808153-lgtm&theme=radical&hide_border=true&card_width=495&show_icons=true" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&theme=radical&hide_border=true&card_width=495&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&card_width=495&show_icons=true" />
+      <img width="400px" align="center" src="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&theme=radical&hide_border=true&card_width=495&show_icons=true" alt="GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/siddharth808153-lgtm">
@@ -91,9 +91,9 @@
 <div width="100%" align="center">
   <a href="https://github.com/siddharth808153-lgtm">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth808153-lgtm&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth808153-lgtm&layout=compact&langs_count=10" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth808153-lgtm&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&layout=compact&langs_count=10" />
+      <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
     </picture>
   </a>
 </div>
@@ -103,9 +103,9 @@
 <div width="100%" align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=siddharth808153-lgtm&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=siddharth808153-lgtm&no-bg=false&margin-w=4&row=1" />
-      <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=siddharth808153-lgtm&no-frame=true&hide_border=true&no-bg=false&margin-w=4&row=1" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-unserori.vercel.app/?username=siddharth808153-lgtm&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-unserori.vercel.app/?username=siddharth808153-lgtm&no-bg=false&margin-w=4&row=1" />
+      <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy-unserori.vercel.app/?username=siddharth808153-lgtm&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
     </picture>
   </a>
 </div>
