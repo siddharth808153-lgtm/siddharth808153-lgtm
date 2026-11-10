@@ -1,6 +1,6 @@
 <img align="right" width="220" src="https://raw.githubusercontent.com/siddharth808153-lgtm/siddharth808153-lgtm/main/assets/goku-pixel-ssj.gif" alt="Goku SSJ">
 
-# Hi 👋, I'm Siddharth Vishwakarma
+<p><font size="6"><b>Hi 👋, I'm Siddharth Vishwakarma</b></font></p>
 
 <a href="https://github.com/siddharth808153-lgtm">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=false&vCenter=true&width=520&lines=Full+Stack+Developer+%26+Engineer;Building+Scalable+Web+Apps+%26+APIs;TypeScript+%7C+React+%7C+Node.js+%7C+Python;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
@@ -22,10 +22,9 @@
 <a href="https://www.snapchat.com/add/siddharth.0502" target="_blank"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=000000" alt="Snapchat"></a>
 
 <br clear="both"/>
+<br/>
 
-<hr>
-
-<h2 align="center">🛠️ Tech Stack & Capabilities</h2>
+<h3 align="center"><font size="5">🛠️ Tech Stack & Capabilities</font></h3>
 
 <div align="center">
   <table>
@@ -56,9 +55,9 @@
   </table>
 </div>
 
-<hr>
+<br/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h3 align="center"><font size="5">🚀 Featured Projects</font></h3>
 
 <div align="center">
 
@@ -71,9 +70,9 @@
 
 </div>
 
-<hr>
+<br/>
 
-<h2 align="center">📊 GitHub Activity & Statistics</h2>
+<h3 align="center"><font size="5">📊 GitHub Activity & Statistics</font></h3>
 
 <div align="center">
   <table border="0">
@@ -100,7 +99,9 @@
   </table>
 </div>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<br/>
+
+<h3 align="center"><font size="5">🏆 GitHub Trophies</font></h3>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -112,9 +113,9 @@
   </a>
 </div>
 
-<hr>
+<br/>
 
-<h2 align="center">🐍 Contribution Journey</h2>
+<h3 align="center"><font size="5">🐍 Contribution Journey</font></h3>
 
 <div align="center">
   <picture>
