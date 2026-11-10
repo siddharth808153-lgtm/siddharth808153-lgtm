@@ -72,16 +72,16 @@
 <div width="100%" align="center">
   <a href="https://github.com/siddharth808153-lgtm">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&theme=radical&hide_border=true&card_width=495&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&card_width=495&show_icons=true" />
-      <img width="400px" align="center" src="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&theme=radical&hide_border=true&card_width=495&show_icons=true" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&theme=radical&hide_border=true&card_width=495&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&card_width=495&show_icons=true" />
+      <img width="400px" align="center" src="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&theme=radical&hide_border=true&card_width=495&show_icons=true" alt="GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/siddharth808153-lgtm">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=siddharth808153-lgtm&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=siddharth808153-lgtm&hide_border=true" />
-      <img width="400px" align="center" src="https://streak-stats.demolab.com?user=siddharth808153-lgtm&theme=radical&hide_border=true" alt="Streak Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=siddharth808153-lgtm&theme=radical&hide_border=true&cache_seconds=1800" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=siddharth808153-lgtm&hide_border=true&cache_seconds=1800" />
+      <img width="400px" align="center" src="https://streak-stats.demolab.com?user=siddharth808153-lgtm&theme=radical&hide_border=true&cache_seconds=1800" alt="Streak Stats" />
     </picture>
   </a>
 </div>
@@ -91,9 +91,9 @@
 <div width="100%" align="center">
   <a href="https://github.com/siddharth808153-lgtm">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&layout=compact&langs_count=10" />
-      <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
+      <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
     </picture>
   </a>
 </div>
