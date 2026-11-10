@@ -1,39 +1,33 @@
-<div align="center">
+<img align="right" width="220" src="https://raw.githubusercontent.com/siddharth808153-lgtm/siddharth808153-lgtm/main/assets/goku-pixel-ssj.gif" alt="Goku SSJ">
 
-  <img src="https://raw.githubusercontent.com/siddharth808153-lgtm/siddharth808153-lgtm/main/assets/goku-pixel-ssj.gif" width="120" alt="Goku SSJ Pixel" />
+# Hi 👋, I'm Siddharth Vishwakarma
 
-  <h1>Hi there, I'm <span style="color:#fe428e;">Siddharth Vishwakarma</span> 👋</h1>
+<a href="https://github.com/siddharth808153-lgtm">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=false&vCenter=true&width=520&lines=Full+Stack+Developer+%26+Engineer;Building+Scalable+Web+Apps+%26+APIs;TypeScript+%7C+React+%7C+Node.js+%7C+Python;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+</a>
 
-  <a href="https://github.com/siddharth808153-lgtm">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%26+Software+Engineer;Building+Scalable+Web+Apps+%26+APIs;TypeScript+%7C+React+%7C+Node.js+%7C+Python;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
-  </a>
+<br/><br/>
 
-  <br/><br/>
-
-  <p align="center">
-    🚀 &nbsp;<b>Full Stack Developer</b> passionate about crafting high-performance, elegant software.<br/>
-    💡 &nbsp;Specialized in modern <b>React/Next.js</b>, <b>Node.js & Python backends</b>, and <b>scalable cloud architectures</b>.<br/>
-    🌱 &nbsp;Constantly exploring developer tooling, distributed systems, and real-time apps.
-  </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/siddharth-vishwakarma-886420396" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="mailto:siddharth808153@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-    <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
-    <a href="https://instagram.com/siddharth.0205" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-    <a href="https://www.snapchat.com/add/siddharth.0502" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" /></a>
-  </p>
-
-</div>
+🏢 &nbsp;**Full Stack Developer & Software Engineer**  
+⚙️ &nbsp;Building scalable web applications, REST APIs & cloud software  
+🔌 &nbsp;Specialized in **TypeScript, React, Node.js, Python & modern frameworks**  
+☁️ &nbsp;Passionate about **clean code, scalable architecture & developer tools**
 
 <br/>
 
----
+<a href="https://www.linkedin.com/in/siddharth-vishwakarma-886420396" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:siddharth808153@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+<a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-siddharth.0502-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
+<a href="https://instagram.com/siddharth.0205" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp;
+<a href="https://www.snapchat.com/add/siddharth.0502" target="_blank"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=000000" alt="Snapchat"></a>
 
-### 🛠️ Tech Stack & Capabilities
+<br clear="both"/>
+
+<hr>
+
+<h2 align="center">🛠️ Tech Stack & Capabilities</h2>
 
 <div align="center">
-
   <table>
     <tr>
       <td align="center" width="25%"><b>🌐 Frontend</b></td>
@@ -60,14 +54,11 @@
       </td>
     </tr>
   </table>
-
 </div>
 
-<br/>
+<hr>
 
----
-
-### 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
@@ -80,25 +71,14 @@
 
 </div>
 
-<br/>
+<hr>
 
----
-
-### 📊 GitHub Activity & Statistics
+<h2 align="center">📊 GitHub Activity & Statistics</h2>
 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <a href="https://github.com/siddharth808153-lgtm">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&theme=radical&hide_border=true&card_width=460&show_icons=true&hide=issues,prs,contribs" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&card_width=460&show_icons=true&hide=issues,prs,contribs" />
-            <img width="420" src="https://github-stats-extended.vercel.app/api?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&theme=radical&hide_border=true&card_width=460&show_icons=true&hide=issues,prs,contribs" alt="GitHub Stats" />
-          </picture>
-        </a>
-      </td>
-      <td>
+      <td align="center" valign="middle">
         <a href="https://github.com/siddharth808153-lgtm">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=siddharth808153-lgtm&theme=radical&hide_border=true&cache_seconds=1800" />
@@ -107,25 +87,20 @@
           </picture>
         </a>
       </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/siddharth808153-lgtm">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+            <img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+          </picture>
+        </a>
+      </td>
     </tr>
   </table>
-
-  <br/>
-
-  <a href="https://github.com/siddharth808153-lgtm">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
-      <img width="500" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth808153-lgtm&include_all_commits=true&count_private=true&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-    </picture>
-  </a>
 </div>
 
-<br/>
-
----
-
-### 🏆 Achievements & Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -137,11 +112,9 @@
   </a>
 </div>
 
-<br/>
+<hr>
 
----
-
-### 🐍 Contribution Journey
+<h2 align="center">🐍 Contribution Journey</h2>
 
 <div align="center">
   <picture>
